@@ -3,7 +3,7 @@
 // ENGSE207 - Week 6 Docker Version
 // ============================================
 
-const API_BASE = CONFIG.API_URL || 'http://localhost:3000/api';
+const API_BASE = 'https://api-task-board-production.up.railway.app/api';
 
 // ============================================
 // API Functions
